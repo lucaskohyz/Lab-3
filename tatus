@@ -1,0 +1,61 @@
+[33mcommit f73deec3b90eee90a7f3fbb1c4df5e0738985fc4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucas koh <{lucaskohyz@gmail.com}>
+Date:   Thu May 5 11:24:45 2022 +0800
+
+    original working code
+
+[33mcommit acf0f59c921e669c3215541558315af4288c474b[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:39:30 2022 +0800
+
+    Rename Readme to Readme.md
+
+[33mcommit 3534e242d14082d0b4e6d0d6be427f6167f21ce7[m
+Author: chris-sherman-sp <85285506+chris-sherman-sp@users.noreply.github.com>
+Date:   Wed Mar 23 16:32:08 2022 +0800
+
+    Rename Readme to README
+    
+    Rename Readme file
+
+[33mcommit e4c196b69947cbc3d4c05a47efd1a0a841818436[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:36:46 2022 +0800
+
+    Rename Readme to README
+
+[33mcommit 6312636344f00bf2b89039393e6a5e6319935034[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:34:34 2022 +0800
+
+    Update Readme file to H1 header
+
+[33mcommit 0476f39687dc49006d37ab487ce5fc77d409f608[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:33:18 2022 +0800
+
+    Add Readme file for Lab 3
+
+[33mcommit 324c72853155f45c9e285afc03772cce280f60a5[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Thu Mar 10 09:21:27 2022 +0800
+
+    Fix result issue
+
+[33mcommit 40d462efdf54181dd6da995405cb9f735e1f859a[m
+Author: Chris <christopher.sherman.isa@gmail.com>
+Date:   Mon Jan 3 18:07:34 2022 +0800
+
+    Add PyTest test cases for Lab 3
+
+[33mcommit cb6ed5ee996fd9e292cf1acf76eeab644628f2a6[m
+Author: Chris <christopher.sherman.isa@gmail.com>
+Date:   Mon Jan 3 11:37:32 2022 +0800
+
+    Add PyTest file
+
+[33mcommit da154cc2b433a423a60fddc559eea3f230b67a06[m
+Author: Christopher Sherman <christopher.sherman.isa@gmail.com>
+Date:   Thu Dec 30 16:23:14 2021 +0800
+
+    Initial Revision
